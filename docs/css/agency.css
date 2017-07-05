@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #fed136;
+  color: #2C5B4D;
 }
 p {
   font-size: 14px;
@@ -28,7 +28,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: #bc3200;
 }
 a:hover,
 a:focus,
@@ -101,8 +101,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   color: white;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #3a7c69;
+  border-color: #84edcf;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -116,8 +116,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: white;
-  background-color: #fec503;
-  border-color: #f6bf01;
+  background-color: #84edcf;
+  border-color: #84edcf;
 }
 .btn-xl:active,
 .btn-xl.active,
@@ -152,13 +152,13 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #fed136;
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #fec503;
+  color: #28E0AC;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -184,18 +184,18 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #fed136;
+  color: #c6ffef;
   outline: none;
 }
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background-color: #fed136;
+  background-color: #2C5B4D;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #fec503;
+  background-color: #9e481e;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url('../img/waterfall.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -313,7 +313,7 @@ section h3.section-subheading {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
-  background: rgba(254, 209, 54, 0.9);
+  background: #2C5B4D;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -421,7 +421,7 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #fed136;
+  background-color: #2C5B4D;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
@@ -745,13 +745,13 @@ body {
   webkit-tap-highlight-color: #fed136;
 }
 header {
-  color: #A1081C;
+  color: #2c5b4d;
 }
 
 .navbar-custom .navbar-brand {
-  color: #00FF00;
+  color: #C6FFEF;
 }
 
 .navbar-custom .nav li a {
-  color: #0000FF;
+  color: #57b298;
 }
