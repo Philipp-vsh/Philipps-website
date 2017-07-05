@@ -57,8 +57,8 @@ h6 {
 }
 .btn-primary {
   color: white;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #3a7c69;
+  border-color: #C6FFEF;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -69,8 +69,8 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #fec503;
-  border-color: #f6bf01;
+  background-color: #84edcf;
+  border-color: #84edcf;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -164,8 +164,8 @@ fieldset[disabled] .btn-xl.active {
   border-color: rgba(255, 255, 255, 0.02);
 }
 .navbar-custom .navbar-toggle {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #12755b;
+  border-color: #c6ffef;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   color: white;
@@ -173,7 +173,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #fed136;
+  background-color: #3a7c69;
 }
 .navbar-custom .nav li a {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -424,7 +424,7 @@ section h3.section-subheading {
   background-color: #2C5B4D;
   color: white;
   border-radius: 100%;
-  border: 7px solid #f1f1f1;
+  border: 7px solid #333;
   text-align: center;
 }
 .timeline > li .timeline-image h4 {
@@ -540,7 +540,7 @@ section h3.section-subheading {
 }
 .team-member img {
   margin: 0 auto;
-  border: 9px solid #3a7c69;
+  border: 9px solid #57b298;
 }
 .team-member h4 {
   margin-top: 25px;
