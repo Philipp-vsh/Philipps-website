@@ -28,13 +28,13 @@ a.active {
   outline: none;
 }
 a {
-  color: #bc3200;
+  color: #57b298;
 }
 a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #fec503;
+  color: #84edcf;
 }
 h1,
 h2,
@@ -195,7 +195,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #9e481e;
+  background-color: #12755b;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -540,7 +540,7 @@ section h3.section-subheading {
 }
 .team-member img {
   margin: 0 auto;
-  border: 7px solid white;
+  border: 9px solid #3a7c69;
 }
 .team-member h4 {
   margin-top: 25px;
@@ -645,7 +645,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #fed136;
+  background-color: #84edcf;
 }
 .btn:focus,
 .btn:active,
