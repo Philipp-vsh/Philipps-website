@@ -11,7 +11,7 @@ body {
   color: #777777;
 }
 .text-primary {
-  color: #2C5B4D;
+  color: #FFF;
 }
 p {
   font-size: 14px;
@@ -755,3 +755,5 @@ header {
 .navbar-custom .nav li a {
   color: #57b298;
 }
+.fa-inverse {
+  color: #2C5B4D;}
